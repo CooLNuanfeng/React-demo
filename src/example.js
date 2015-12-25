@@ -5,6 +5,6 @@ var HelloMessage = React.createClass({
 });
 
 ReactDOM.render(
-	<HelloMessage name="blue" />,
+	<HelloMessage name="hello world" />,
 	document.getElementById('example')
 )

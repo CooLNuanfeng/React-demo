@@ -11,4 +11,4 @@ var HelloMessage = React.createClass({
 	}
 });
 
-ReactDOM.render(React.createElement(HelloMessage, { name: "blue" }), document.getElementById('example'));
+ReactDOM.render(React.createElement(HelloMessage, { name: "hello world" }), document.getElementById('example'));
