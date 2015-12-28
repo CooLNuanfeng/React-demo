@@ -1,6 +1,6 @@
 ####说明
 
-传统开发模式
+传统开发模式，不使用webpack
 
 1.安装两个插件 babel-cli 和 babel-preset-react
 
