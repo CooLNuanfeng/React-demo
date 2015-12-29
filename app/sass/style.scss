@@ -1,0 +1,19 @@
+@import './common.scss';
+
+$color:red;
+$orange:'#f60';
+
+@if 3<5 {
+	.say{
+		color:$color;
+	}
+}@else{
+	.say{
+		color:$orange;
+	}
+}
+
+body{
+	font-size:16px;
+	background-color: blue;
+}
